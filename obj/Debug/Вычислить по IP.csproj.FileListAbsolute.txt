@@ -1,0 +1,25 @@
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\Вычислить по IP.exe.config
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\Вычислить по IP.exe
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\Вычислить по IP.pdb
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\EntityFramework.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\EntityFramework.SqlServer.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\GMap.NET.WindowsForms.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\Newtonsoft.Json.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SqlClient.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SQLite.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SQLite.EF6.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SQLite.Linq.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Security.Principal.Windows.dll
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\EntityFramework.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\EntityFramework.SqlServer.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\Newtonsoft.Json.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SqlClient.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Data.SQLite.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\bin\Debug\System.Security.Principal.Windows.xml
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить_по_IP.Form1.resources
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить_по_IP.Properties.Resources.resources
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить по IP.csproj.GenerateResource.cache
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить по IP.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить по IP.csproj.CopyComplete
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить по IP.exe
+D:\vadymkon\Проги\TRY\Вычислить по IP\obj\Debug\Вычислить по IP.pdb
